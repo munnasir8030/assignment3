@@ -1,0 +1,93 @@
+.headerarea{
+    height: 80vh;
+background-image: linear-gradient(rgba(0, 0, 0, 0.466),rgba(0, 0, 0, 0.389)),url(./image/banner.png);
+background-size: cover;
+background-position: center;
+
+
+
+}
+
+.theme-buttun{
+ background-color: #DF6751;
+color: white;
+
+}
+
+.theme-bg{
+color: #DF6751;
+
+
+
+}
+
+.footerarea{
+background-color: #F8F9FB;
+
+
+}
+
+
+.imagep{
+width: 70px;
+
+
+
+}
+
+.berger{
+/* border-radius: 800px; */
+ /* border-color: white;  */
+ /* background-color: white; */
+padding: 0px 100px;
+ /* border: 30px solid white; */
+/* border-radius: 100%; */
+
+}
+
+/* .div1{
+width: 60%;
+
+
+}
+
+.div2{
+width: 40%;
+
+
+}
+ */
+
+/* .area{
+    background-color: #F8F9FB;
+
+
+}
+ */
+
+
+
+/* .service :hover{
+    box-shadow: 0px 0px 10px 7px lightgray;
+    cursor: pointer;
+
+    
+} */
+
+
+/* .image{
+    height: 80vh;
+background-image: linear-gradient(rgba(0, 0, 0, 0.325),rgba(0, 0, 0, 0.319)),url(./image/berger.png);
+background-size: cover;
+/* background-position: center; */
+/* background-color: white;
+
+
+
+} */ 
+
+.menu{
+height: 80vh;
+background-color: white;
+
+}
